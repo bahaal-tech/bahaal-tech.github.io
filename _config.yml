@@ -21,12 +21,12 @@
 title: Caimera
 email: contact@caimera.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  Company wiki for Bahaal Technologies Pvt Ltd. 
-  Creators of Caimera, Relove
+  Company wiki for Bahaal Technologies Pvt Ltd 
+  Creators of Caimera & Relove
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @caimerai
-github_username:  @bahaal-tech
+twitter_username: caimerai
+github_username:  bahaal-tech
 
 # Build settings
 theme: minima
