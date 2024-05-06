@@ -41,26 +41,36 @@
                 <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>
             {% endif %}
-
-            <ul>
-                <li><a href="/hr/onboarding">Employee Onboarding</a></li>
-                <li>Remote Best Practices</li>
-                <li>HR</li>
+            <div class="nav-menu-container">
                 <ul>
-                    <li>Leave Application</li>
-                    <li><a href="/hr/working-hours">Working Hours</a></li>
-                    <li><a href="/hr/culture-values">Culture & Values</a></li>
-                    <li><a href="/hr/POSH">POSH</a></li>
+                    <li><a href="/hr/onboarding">Employee Onboarding</a></li>
+                    <li>Remote Best Practices</li>
+                    <li>HR</li>
+                    <ul>
+                        <li><a href="/hr/leave">Leave Policy</a></li>
+                        <li><a href="/hr/offboarding">Offboarding</a></li>
+                        <li><a href="/hr/working-hours">Working Hours</a></li>
+                        <li><a href="/hr/culture-values">Culture & Values</a></li>
+                        <li><a href="/hr/POSH">POSH</a></li>
+                    </ul>
+                    <li><a href="/work/manager-readme">Manager Readme</a></li>
+                    <li><a href="/work/important-calls">Recurring Calls/Meetings</a></li>
+                    <li>Teams & Company Structure</li>
+                    <ul>
+                        <li>AI Prompters</li>
+                        <ul>
+                            <li>Caimera Training</li>
+                            <li>Other Reference Material</li>
+                        </ul>
+                        <li>Product & Tech</li>
+                        <ul>
+                            <li>Engineer Onboarding</li>
+                            <li>Philosophy</li>
+                        </ul>
+                        <li>Sales & Marketing</li>
+                    </ul>
                 </ul>
-                <li><a href="/work/manager-readme">Manager Readme</a></li>
-                <li><a href="/work/important-calls">Recurring Calls/Meetings</a></li>
-                <li>Teams & Company Structure</li>
-                <ul>
-                    <li>AI Prompters</li>
-                    <li>Product & Tech</li>
-                    <li>Sales & Marketing</li>
-                </ul>
-            </ul>
+            </div>
 
         </header>
         <section>
@@ -68,13 +78,13 @@
             {{ content }}
 
         </section>
-        <footer>
+        <!-- <footer>
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a
                         href="https://github.com/orderedlist">orderedlist</a></small></p>
-        </footer>
+        </footer> -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
