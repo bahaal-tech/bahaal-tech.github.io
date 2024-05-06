@@ -20,18 +20,23 @@
 
 title: Caimera
 email: contact@caimera.ai
+logo: 
 description: >- # this means to ignore newlines until "baseurl:"
   Company wiki for Bahaal Technologies Pvt Ltd 
   Creators of Caimera & Relove
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: caimerai
-github_username:  bahaal-tech
+show_downloads: false
+google_analytics:
+logo: /assets/img/caimera-logo.png
+
 
 # Build settings
 theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
