@@ -61,5 +61,7 @@ This is a common task across all teams. Regardless of whether you are in Finance
 ### Day 30
 
 1. Fully onboarded within your role.
+2. Take a personality test (https://www.16personalities.com/)
+3. Add your readme (For Managers)
 
 Note that this is an overview, for specifics okease refer to team specific onboarding
