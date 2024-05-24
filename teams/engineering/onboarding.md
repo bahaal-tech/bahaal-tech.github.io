@@ -26,7 +26,8 @@ Sentry is used for error tracking in almost all of our applications. Familiarize
 ### Slack Channels
 
 To stay connected and informed, make sure to join the following channels on Slack:
-​* tech
+
+* tech
 * sentry-alerts
 * caimera-generations
 * caimera-product-training

@@ -35,7 +35,7 @@ Join the following channels:
     * Basics of prompting - model prompts, background prompts, negative prompts
     * Understanding how to use image dimensions and seed
 
-3 .Create at lease 2 usable images with the above knowledge
+3. Create at lease 2 usable images with the above knowledge
 
 ### Day 2-7
 
