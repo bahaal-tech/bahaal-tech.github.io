@@ -7,7 +7,16 @@
 * Photoshop or any other editing tool
 * The company Canva account for editing
 
+## Buddy System
+
+For the first 2 weeks you will be assigned a mentor/buddy who will be available to answer all prompting related questions
+
+* Daily Review with your buddy of 20mins to review aesthetic
+* Reach out for any questions or help on caimera tool and onboarding
+
 ## Slack channels
+
+Join the following channels:
 
 * #caimera-product-training
 * #caimera-generations
